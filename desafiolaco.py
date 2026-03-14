@@ -6,3 +6,6 @@
 # Hello Coddy: 4
 # ...
 # Hello Coddy: 27
+
+for i in range(3, 28):
+    print(f"Hello Coddy: {i}")
